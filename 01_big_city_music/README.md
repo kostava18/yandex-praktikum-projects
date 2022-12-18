@@ -28,10 +28,4 @@ logs_exp:
 ## Библиотеки
 
 - Pandas
-- Datetime
-- Numpy
-- Math
-- Scipy
-- Matplotlib
-- Seaborn
-- Plotly
+- Python
